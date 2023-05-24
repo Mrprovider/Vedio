@@ -14,6 +14,12 @@ Just Press Below Button to Deploy!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrprovider/Vedio)
 
+### Deploy to Koyeb:
+Just Press Below Button to Deploy!
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Mrprovider/Vedio)
+</details>
+
 ### Support Group:
 <a href="https://t.me/TG_UPDATES1"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
